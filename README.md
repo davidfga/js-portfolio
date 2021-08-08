@@ -1,1 +1,1 @@
-# js-portfolio
+# Simple SPA Platzi
